@@ -1,21 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Kevin — Computer Science Student. Python, Web Development, Research.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kevin Ayala Vilchis. Computer Science at UTEP. Computing, Psychology, Neuroscience, Research.">
   <defs>
-    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1b2530" stroke-width="1"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190e15"/>
+      <stop offset=".6" stop-color="#35131f"/>
+      <stop offset="1" stop-color="#641e36"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#89314d" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#d07891" stop-opacity=".6"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="340" rx="20"/></clipPath>
   </defs>
-  <rect width="1200" height="320" rx="16" fill="#0d1117"/>
-  <rect width="1200" height="320" rx="16" fill="url(#grid)" opacity=".55"/>
-  <rect x="48" y="59" width="44" height="4" rx="2" fill="#2dd4bf"/>
-  <text x="48" y="126" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f0f6fc">Kevin</text>
-  <text x="50" y="167" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#c9d1d9">Computer Science Student</text>
-  <text x="50" y="208" font-family="monospace" font-size="17" fill="#2dd4bf">Python · Web Development · Research</text>
-  <text x="50" y="254" font-family="monospace" font-size="15" fill="#8b949e">&gt; turning questions into useful software_</text>
-  <rect x="722" y="61" width="430" height="208" rx="14" fill="#161b22" stroke="#30363d"/>
-  <circle cx="748" cy="87" r="5" fill="#ff5f57"/><circle cx="768" cy="87" r="5" fill="#febc2e"/><circle cx="788" cy="87" r="5" fill="#28c840"/>
-  <text x="815" y="92" font-family="monospace" font-size="13" fill="#8b949e">~/profile</text>
-  <g font-family="monospace" font-size="16">
-    <text x="748" y="132" fill="#2dd4bf">$ whoami</text>
-    <text x="748" y="161" fill="#f0f6fc" font-weight="700">first-generation CS student</text>
-    <text x="748" y="201" fill="#8b949e">focus</text><text x="818" y="201" fill="#c9d1d9">code / research</text>
-    <text x="748" y="231" fill="#8b949e">status</text><text x="818" y="231" fill="#2dd4bf">learning by building_</text>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <ellipse cx="1160" cy="350" rx="340" ry="400" fill="none" stroke="url(#ribbon)" stroke-width="76" transform="rotate(32 1160 350)"/>
+    <ellipse cx="1160" cy="350" rx="210" ry="280" fill="none" stroke="#e0a4b5" stroke-opacity=".18" stroke-width="1" transform="rotate(32 1160 350)"/>
+    <path d="M855 -35 C740 85 1000 110 835 375" fill="none" stroke="#b95b78" stroke-opacity=".25" stroke-width="2"/>
+    <path d="M875 -35 C760 85 1020 110 855 375" fill="none" stroke="#b95b78" stroke-opacity=".16" stroke-width="1"/>
+    <rect x="45" y="37" width="1110" height="266" rx="3" fill="none" stroke="#e8b9c5" stroke-opacity=".2"/>
+    <text x="76" y="84" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#d49aaa">COMPUTER SCIENCE / UTEP</text>
+    <text x="72" y="164" font-family="Georgia, 'Times New Roman', serif" font-size="66" fill="#fff0ef">Kevin Ayala Vilchis<tspan fill="#d7809b">.</tspan></text>
+    <text x="77" y="204" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#e1b8c3">Exploring the connections between code, mind, and biology.</text>
+    <path d="M77 234 H725" stroke="#b76880" stroke-opacity=".5"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.3" fill="#f0d2db">
+      <text x="77" y="270">COMPUTING</text>
+      <circle cx="263" cy="265" r="2" fill="#c77890"/>
+      <text x="284" y="270">MIND &amp; BRAIN</text>
+      <circle cx="450" cy="265" r="2" fill="#c77890"/>
+      <text x="471" y="270">RESEARCH</text>
+    </g>
+    <g transform="translate(1051 92)" stroke="#f2cad5" stroke-width="1.4" stroke-opacity=".65">
+      <path d="M-13 0 H13 M0 -13 V13 M-7 -7 L7 7 M-7 7 L7 -7"/>
+      <circle r="23" fill="none" stroke-opacity=".2"/>
+    </g>
   </g>
 </svg>
