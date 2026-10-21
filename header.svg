@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Kevin — Computer Science Student. Python, Web Development, Research.">
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1b2530" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="#0d1117"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)" opacity=".55"/>
+  <rect x="48" y="59" width="44" height="4" rx="2" fill="#2dd4bf"/>
+  <text x="48" y="126" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f0f6fc">Kevin</text>
+  <text x="50" y="167" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#c9d1d9">Computer Science Student</text>
+  <text x="50" y="208" font-family="monospace" font-size="17" fill="#2dd4bf">Python · Web Development · Research</text>
+  <text x="50" y="254" font-family="monospace" font-size="15" fill="#8b949e">&gt; turning questions into useful software_</text>
+  <rect x="722" y="61" width="430" height="208" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="748" cy="87" r="5" fill="#ff5f57"/><circle cx="768" cy="87" r="5" fill="#febc2e"/><circle cx="788" cy="87" r="5" fill="#28c840"/>
+  <text x="815" y="92" font-family="monospace" font-size="13" fill="#8b949e">~/profile</text>
+  <g font-family="monospace" font-size="16">
+    <text x="748" y="132" fill="#2dd4bf">$ whoami</text>
+    <text x="748" y="161" fill="#f0f6fc" font-weight="700">first-generation CS student</text>
+    <text x="748" y="201" fill="#8b949e">focus</text><text x="818" y="201" fill="#c9d1d9">code / research</text>
+    <text x="748" y="231" fill="#8b949e">status</text><text x="818" y="231" fill="#2dd4bf">learning by building_</text>
+  </g>
+</svg>
