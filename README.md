@@ -39,20 +39,3 @@ My projects include Python pipelines for biological data and prediction, browser
 
 ---
 
-## Selected projects
-
-**Music Popularity Forecasting**  
-A Python machine learning pipeline that predicts song popularity using 114K+ tracks, a Random Forest regressor, and audio feature analysis.  
-`Python` · `scikit-learn` · `pandas` · `NumPy`
-
-**Rotifer BLAST Pipeline**  
-Automates BLASTp searches against a rotifer protein database and extracts matching sequences for immunity-related genes.  
-`Python` · `BLASTp` · `Linux`
-
-**Work Attribute Study Website**  
-An interactive psychology research platform with randomized adjective positions, response-time tracking, input validation, and data-quality checks.  
-`JavaScript` · `HTML` · `CSS` · `jsPsych`
-
-**TicketMiner**  
-A Java ticketing application with customer and admin workflows, invoicing, CSV storage, and object-oriented design patterns.  
-`Java` · `OOP` · `MVC` · `Factory patterns`
