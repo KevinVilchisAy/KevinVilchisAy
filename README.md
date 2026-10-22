@@ -23,19 +23,21 @@ My projects include Python pipelines for biological data and prediction, browser
 
 ---
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css&theme=dark" alt="Python, Java, C, TypeScript, JavaScript, HTML, CSS" />
 </p>
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn,git,github,linux,gcp&theme=dark" alt="scikit-learn, Git, GitHub, Linux, Google Cloud" />
 </p>
 
-**Languages:** Python · Java · SQL · TypeScript · JavaScript · C  
-**Web:** HTML · CSS · jsPsych  
-**Data & ML:** pandas · NumPy · scikit-learn · Jupyter Notebooks · Tableau  
-**Tools & platforms:** Git · GitHub · Linux · Google Cloud
+<p align="center">
+  <strong>Languages:</strong> Python · Java · SQL · TypeScript · JavaScript · C<br>
+  <strong>Web:</strong> HTML · CSS · jsPsych<br>
+  <strong>Data &amp; ML:</strong> pandas · NumPy · scikit-learn · Jupyter Notebooks · Tableau<br>
+  <strong>Tools &amp; platforms:</strong> Git · GitHub · Linux · Google Cloud
+</p>
 
 ---
-
