@@ -1,4 +1,4 @@
-![Kevin Ayala Vilchis — Computing · Mind · Research](assets/header.svg)
+![Kevin Ayala Vilchis — Computing · Mind · Research](header.svg)
 
 <p align="center">
   <a href="https://kevinvilchisay.github.io/KevinAyalaVil-PersonalWebsite/">Portfolio</a> &nbsp; / &nbsp;
